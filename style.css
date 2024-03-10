@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+    cursor: pointer;
+}
+p {
+    font-size: 20px;
+}
+span{
+    font-size: 1em;
+    cursor: pointer;
+}
+span:hover {
+    font-size: 9em;
+}
+.newclass{
+    color: gray;
+}
